@@ -34,7 +34,7 @@ Currently working at **Sparktech Agency**, delivering high-quality solutions for
 ## Tech Stack
 
 **Frontend**
-JavaScript • TypeScript • React.js • Next.js • Redux • HTML5 • CSS3 • SASS
+JavaScript • TypeScript • React.js • Next.js • Redux • ReactNative
 
 **Backend**
 Node.js • Express.js • MongoDB • Firebase • REST APIs
