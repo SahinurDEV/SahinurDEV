@@ -24,7 +24,7 @@ I build backend services and APIs in Node.js and TypeScript, and the React / Nex
 <sub>React Native · Expo · TypeScript · Zustand · [Website](https://sahinurdev.github.io/FitBMI/)</sub>
 
 **[easy-quick-form](https://github.com/SahinurDEV/easy-quick-form)**: a full-stack form builder with a drag-and-drop editor, response tracking, and JWT authentication with refresh-token rotation and reuse detection.<br>
-<sub>React · Express · MongoDB · TypeScript · Vitest</sub>
+<sub>React · Express · MongoDB · TypeScript · Vitest · [Live](https://easy-quick-form.vercel.app)</sub>
 
 ## Open source
 
