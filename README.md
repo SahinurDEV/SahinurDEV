@@ -21,7 +21,7 @@ I'm a full-stack software engineer working across Node.js / TypeScript services 
 <sub>JavaScript · Chrome Extension (Manifest V3) · [Chrome Web Store](https://chromewebstore.google.com/detail/leadsnipe-email-extractor/ndfbblpccbhadnbnfhegjhpefocmilag) · [Website](https://leadsnipe.netlify.app)</sub>
 
 **[Meet Attendance Tracker](https://github.com/SahinurDEV/Meet-Attendance-Tracker)**: a Chrome extension that takes Google Meet attendance automatically, with join and leave times, speaking time, class rosters (present, late or absent), analytics and CSV, Excel or PDF reports. Everything stays on the user's device.<br>
-<sub>JavaScript · Chrome Extension (Manifest V3) · Playwright · GitHub Actions · [Website](https://sahinurdev.github.io/Meet-Attendance-Tracker/)</sub>
+<sub>JavaScript · Chrome Extension (Manifest V3) · [Chrome Web Store](https://chromewebstore.google.com/detail/meet-attendance-tracker/knhhplmldjejlbhpnhgcbcbnglghoblm) · [Website](https://sahinurdev.github.io/Meet-Attendance-Tracker/)</sub>
 
 **[easy-quick-form](https://github.com/SahinurDEV/easy-quick-form)**: a full-stack form builder with a drag-and-drop editor, response tracking, and JWT authentication with refresh-token rotation and reuse detection.<br>
 <sub>React · Express · MongoDB · TypeScript · Vitest · [Live](https://easy-quick-form.vercel.app)</sub>
