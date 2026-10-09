@@ -1,10 +1,10 @@
 # Sahinur
 
-Full-stack engineer focused on backend systems, developer tooling and open source.
+Full-stack software engineer building web, mobile and developer tooling, and contributing to open source.
 
 [Website](https://www.sahinur.dev) · [X](https://x.com/SahinurDev) · [LinkedIn](https://www.linkedin.com/in/sahinur/) · [Email](mailto:infosahinur@gmail.com)
 
-I build backend services and APIs in Node.js and TypeScript, and the React / Next.js and React Native apps that sit on top of them, increasingly with agentic AI workflows. I also maintain small, well-tested open-source tools: a fake-data library and an AWS CLI published on npm, and a Chrome extension on the Web Store. When something breaks in a library I depend on, I send the fix upstream.
+I build web apps with React and Next.js, mobile apps with React Native, and the Node.js / TypeScript services and APIs behind them, increasingly with agentic AI workflows. I also maintain small, well-tested open-source tools: a fake-data library and an AWS CLI published on npm, and a Chrome extension on the Web Store. When something breaks in a library I depend on, I send the fix upstream.
 
 ## Selected work
 
