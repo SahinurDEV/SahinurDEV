@@ -30,7 +30,7 @@ I build backend services and APIs in Node.js and TypeScript, and the React / Nex
 
 - **[PapaParse](https://github.com/mholt/PapaParse)** (13k+ stars): fixed a crash in `Papa.unparse` on null or undefined single-cell rows when `skipEmptyLines` is set. [#1164](https://github.com/mholt/PapaParse/pull/1164), merged.
 - **[Tabularis](https://github.com/TabularisDB/tabularis)** (5k+ stars): made column masking and grid interaction settings persist across sessions. [#911](https://github.com/TabularisDB/tabularis/pull/911), merged.
-- **[Security-Guard](https://github.com/Syed-Bipul-Rahman/Security-Guard)**: reported a detection gap for obfuscated `_0x` loader variants and stale C2 indicators ([#24](https://github.com/Syed-Bipul-Rahman/Security-Guard/issues/24)), fixed upstream in [#25](https://github.com/Syed-Bipul-Rahman/Security-Guard/pull/25). Follow-up [#26](https://github.com/Syed-Bipul-Rahman/Security-Guard/pull/26) detects the env-decode → fetch → eval loader under any variable names (in review).
+- **[AlaSQL](https://github.com/AlaSQL/alasql)** (7k+ stars): fixed `WITH` queries (CTEs) that read from an async source such as `CSV()`, which previously threw an uncaught error. [#2571](https://github.com/AlaSQL/alasql/pull/2571), merged.
 
 ## Stack
 
