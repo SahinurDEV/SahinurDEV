@@ -31,6 +31,7 @@ I build web apps with React and Next.js, mobile apps with React Native, and the 
 - **[PapaParse](https://github.com/mholt/PapaParse)** (13k+ stars): fixed a crash in `Papa.unparse` on null or undefined single-cell rows when `skipEmptyLines` is set. [#1164](https://github.com/mholt/PapaParse/pull/1164), merged.
 - **[Tabularis](https://github.com/TabularisDB/tabularis)** (5k+ stars): made column masking and grid interaction settings persist across sessions. [#911](https://github.com/TabularisDB/tabularis/pull/911), merged.
 - **[AlaSQL](https://github.com/AlaSQL/alasql)** (7k+ stars): fixed `WITH` queries (CTEs) that read from an async source such as `CSV()`, which previously threw an uncaught error. [#2571](https://github.com/AlaSQL/alasql/pull/2571), merged.
+- **[Style Dictionary](https://github.com/style-dictionary/style-dictionary)** (4.8k+ stars): stopped `outputReferences` from raising false warnings for tokens removed by a filter, by sorting the filtered set while resolving references from the full set. [#1763](https://github.com/style-dictionary/style-dictionary/pull/1763), merged.
 
 ## Stack
 
