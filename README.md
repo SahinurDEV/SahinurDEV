@@ -32,6 +32,7 @@ I build web apps with React and Next.js, mobile apps with React Native, and the 
 - **[Tabularis](https://github.com/TabularisDB/tabularis)** (5k+ stars): made column masking and grid interaction settings persist across sessions. [#911](https://github.com/TabularisDB/tabularis/pull/911), merged.
 - **[AlaSQL](https://github.com/AlaSQL/alasql)** (7k+ stars): fixed `WITH` queries (CTEs) that read from an async source such as `CSV()`, which previously threw an uncaught error. [#2571](https://github.com/AlaSQL/alasql/pull/2571), merged.
 - **[Style Dictionary](https://github.com/style-dictionary/style-dictionary)** (4.8k+ stars): stopped `outputReferences` from raising false warnings for tokens removed by a filter, by sorting the filtered set while resolving references from the full set. [#1763](https://github.com/style-dictionary/style-dictionary/pull/1763), merged.
+- **[Two.js](https://github.com/jonobr1/two.js)** (8.6k+ stars): fixed `dom.unbind` calling a nonexistent `removeEventListeners` method, so DOM event listeners are now actually removed. [#868](https://github.com/jonobr1/two.js/pull/868), merged.
 
 ## Stack
 
