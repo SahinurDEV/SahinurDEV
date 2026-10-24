@@ -28,14 +28,19 @@ I build web apps with React and Next.js, mobile apps with React Native, and the 
 
 ## Open source
 
+- **[VS Code](https://github.com/microsoft/vscode)** (194k+ stars): made "Debug Extension Host" turn on the inspector on the running extension host instead of asking for a restart, matching how profiling already worked. [#343437](https://github.com/microsoft/vscode/pull/343437), merged.
 - **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** (97k+ stars): stopped class canonicalization from collapsing exponentially when a utility sets many properties. [#20558](https://github.com/tailwindlabs/tailwindcss/pull/20558), merged.
+- **[Qwik](https://github.com/QwikDev/qwik)** (22k+ stars): fixed an SSR `ReferenceError` in the TypeScript optimizer by keeping outer loop items in scope for handlers inside nested loops. [#9231](https://github.com/QwikDev/qwik/pull/9231), merged.
 - **[Plate](https://github.com/udecode/plate)** (16k+ stars): made the markdown deserializer parse autolinks when used with `remark-mdx`. [#5159](https://github.com/udecode/plate/pull/5159), merged.
+- **[ApexCharts](https://github.com/apexcharts/apexcharts.js)** (15k+ stars): stopped streaming line and area segments after a `null` gap from replaying their entry animation on every update [#5351](https://github.com/apexcharts/apexcharts.js/pull/5351), and stopped zero-value stacked columns from being expanded by the series stroke width [#5352](https://github.com/apexcharts/apexcharts.js/pull/5352). Both merged.
 - **[PapaParse](https://github.com/mholt/PapaParse)** (13k+ stars): fixed a crash in `Papa.unparse` on null or undefined single-cell rows when `skipEmptyLines` is set. [#1164](https://github.com/mholt/PapaParse/pull/1164), merged.
 - **[Tabularis](https://github.com/TabularisDB/tabularis)** (5k+ stars): made column masking and grid interaction settings persist across sessions. [#911](https://github.com/TabularisDB/tabularis/pull/911), merged.
 - **[AlaSQL](https://github.com/AlaSQL/alasql)** (7k+ stars): fixed `WITH` queries (CTEs) that read from an async source such as `CSV()`, which previously threw an uncaught error. [#2571](https://github.com/AlaSQL/alasql/pull/2571), merged.
 - **[Style Dictionary](https://github.com/style-dictionary/style-dictionary)** (4.8k+ stars): stopped `outputReferences` from raising false warnings for tokens removed by a filter, by sorting the filtered set while resolving references from the full set. [#1763](https://github.com/style-dictionary/style-dictionary/pull/1763), merged.
 - **[Two.js](https://github.com/jonobr1/two.js)** (8.6k+ stars): fixed `dom.unbind` calling a nonexistent `removeEventListeners` method, so DOM event listeners are now actually removed. [#868](https://github.com/jonobr1/two.js/pull/868), merged.
 - **[Allotment](https://github.com/johnwalley/allotment)** (1.2k+ stars): fixed sash double-click calling a stale `onReset` instead of the latest callback. [#904](https://github.com/johnwalley/allotment/pull/904), merged.
+- **[eslint-plugin-better-tailwindcss](https://github.com/schoero/eslint-plugin-better-tailwindcss)** (850+ stars): bumped synckit to 0.12 so Tailwind worker rules recover after worker timeouts instead of hanging. [#418](https://github.com/schoero/eslint-plugin-better-tailwindcss/pull/418), merged.
+- **[wavesurfer-react](https://github.com/katspaugh/wavesurfer-react)**: deep-flattened nested options so `useWavesurfer` no longer recreates the player on every render when options like `fetchParams` are written inline. [#15](https://github.com/katspaugh/wavesurfer-react/pull/15), merged.
 
 ## Stack
 
